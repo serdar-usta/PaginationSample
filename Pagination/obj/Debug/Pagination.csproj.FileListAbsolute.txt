@@ -1,0 +1,26 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\Lecture 160419\Pagination\bin\Debug\Pagination.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\Lecture 160419\Pagination\bin\Debug\Pagination.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\Lecture 160419\Pagination\bin\Debug\Pagination.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\Lecture 160419\Pagination\bin\Debug\EntityFramework.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\Lecture 160419\Pagination\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\Lecture 160419\Pagination\bin\Debug\EntityFramework.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects\Lecture 160419\Pagination\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects\Lecture 160419\Pagination\obj\Debug\Pagination.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\Lecture 160419\Pagination\obj\Debug\Pagination.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\Lecture 160419\Pagination\obj\Debug\Pagination.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\Lecture 160419\Pagination\obj\Debug\Pagination.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\Lecture 160419\Pagination\obj\Debug\Pagination.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\Lecture 160419\Pagination\obj\Debug\Pagination.pdb
+C:\Users\Serdar\Desktop\BilgeAdam\12.Hafta\Lecture 160419\Pagination\bin\Debug\Pagination.exe.config
+C:\Users\Serdar\Desktop\BilgeAdam\12.Hafta\Lecture 160419\Pagination\obj\Debug\Pagination.exe
+C:\Users\Serdar\Desktop\BilgeAdam\12.Hafta\Lecture 160419\Pagination\obj\Debug\Pagination.pdb
+C:\Users\Serdar\Desktop\BilgeAdam\12.Hafta\Lecture 160419\Pagination\bin\Debug\Pagination.exe
+C:\Users\Serdar\Desktop\BilgeAdam\12.Hafta\Lecture 160419\Pagination\bin\Debug\Pagination.pdb
+C:\Users\Serdar\Desktop\BilgeAdam\12.Hafta\Lecture 160419\Pagination\bin\Debug\EntityFramework.dll
+C:\Users\Serdar\Desktop\BilgeAdam\12.Hafta\Lecture 160419\Pagination\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serdar\Desktop\BilgeAdam\12.Hafta\Lecture 160419\Pagination\bin\Debug\EntityFramework.xml
+C:\Users\Serdar\Desktop\BilgeAdam\12.Hafta\Lecture 160419\Pagination\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serdar\Desktop\BilgeAdam\12.Hafta\Lecture 160419\Pagination\obj\Debug\Pagination.csprojResolveAssemblyReference.cache
+C:\Users\Serdar\Desktop\BilgeAdam\12.Hafta\Lecture 160419\Pagination\obj\Debug\Pagination.Form1.resources
+C:\Users\Serdar\Desktop\BilgeAdam\12.Hafta\Lecture 160419\Pagination\obj\Debug\Pagination.Properties.Resources.resources
+C:\Users\Serdar\Desktop\BilgeAdam\12.Hafta\Lecture 160419\Pagination\obj\Debug\Pagination.csproj.GenerateResource.Cache
